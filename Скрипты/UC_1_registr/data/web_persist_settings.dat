@@ -1,0 +1,13 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/06/02 09:40:52
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/06/02 09:47:32
+StartRecordingIsDst_2=0
+[Security]
+UsingPersistForAuthentication=1
+UserName_2_1=Safronova13
+Password_2_1=Qwert123
+Realm_2_1=www.advantageonlineshopping.com:443
+EventId_2_1=436
+[User-Agent]
+User-Agent=Crashpad/0.8.0 WinHTTP/10.0.19041.2673 Windows_NT/10.0.19041.2788 (x64)

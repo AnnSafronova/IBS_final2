@@ -1,0 +1,5 @@
+[Network Analyzer (16d8:4324)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (16d8:4324)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (16d8:4930)] "POST /domainreliability/upload"   
+[Network Analyzer (16d8:4930)]   (Sid: 24) Client -> Server @ : 658 bytes (SSL)(Service=HTTP)
+[Network Analyzer (16d8:4930)]   (Sid: 24) Server -> Client : 807 bytes (SSL) (Service=HTTP)

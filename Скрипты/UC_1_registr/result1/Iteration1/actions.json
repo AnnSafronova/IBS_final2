@@ -1,0 +1,122 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1685889259422
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1685889259724
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1685889260169
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1685889260454
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1685889260736
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t6.inf",
+                "time": 1685889260911
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: home-page.html",
+                "infFile": "t7.inf",
+                "time": 1685889261378
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: register-page.html",
+                "infFile": "t8.inf",
+                "time": 1685889261716
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: GetCountriesRequest",
+                "infFile": "t9.inf",
+                "time": 1685889262127
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: AccountCreateRequest_4",
+                "infFile": "t10.inf",
+                "time": 1685889262569
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t11.inf",
+                "time": 1685889263018
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: {userId}",
+                "infFile": "t12.inf",
+                "time": 1685889263346
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t13.inf",
+                "time": 1685889263832
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_site",
+                "rawStartTime": 1685889250724,
+                "rawEndTime": 1685889261386,
+                "thinkTime": 0.0,
+                "wastedTime": 0.16245436668395997
+            },
+            {
+                "transactionName": "create_new_user",
+                "rawStartTime": 1685889261402,
+                "rawEndTime": 1685889262135,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006979942321777344
+            },
+            {
+                "transactionName": "details_account",
+                "rawStartTime": 1685889262150,
+                "rawEndTime": 1685889263354,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011030912399291993
+            },
+            {
+                "transactionName": "logout",
+                "rawStartTime": 1685889263370,
+                "rawEndTime": 1685889263839,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0033860206604003908
+            },
+            {
+                "transactionName": "UC_1_registr",
+                "rawStartTime": 1685889250708,
+                "rawEndTime": 1685889263855,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1838512420654297
+            }
+        ]
+    }
+]

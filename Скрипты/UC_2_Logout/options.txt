@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\finish\UC_2_Logout
+-ID:\temp\LoadRunner\include
+-ed:\finish\uc_2_logout\\logfile.log
+d:\finish\uc_2_logout\\combined_UC_2_Logout.c
+d:\finish\uc_2_logout\\pre_cci.c

@@ -1,0 +1,3 @@
+"{"seaddress":{"addressLine1":"Apple","addressLine2":"","city":"Minsk","country":"us","postalCo"
+"de":174,"state":28,"secustomerName":Sozonova51,"secustomerPhone":799999999,"senumberOfProducts"
+"":1,"setransactionType":"SHIPPING_COST","sessionId":"5E0124203CF029F2C1BB8CD7CD626DA9"}"

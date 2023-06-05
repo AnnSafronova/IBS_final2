@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\finish\UC3_Buy
+-ID:\temp\LoadRunner\include
+-ed:\finish\uc3_buy\\logfile.log
+d:\finish\uc3_buy\\combined_buy.c
+d:\finish\uc3_buy\\pre_cci.c

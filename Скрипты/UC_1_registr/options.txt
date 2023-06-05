@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\finish\UC_1_registr
+-ID:\temp\LoadRunner\include
+-ed:\finish\uc_1_registr\\logfile.log
+d:\finish\uc_1_registr\\combined_UC_1_registr.c
+d:\finish\uc_1_registr\\pre_cci.c

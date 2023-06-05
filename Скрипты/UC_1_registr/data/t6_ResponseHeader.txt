@@ -1,0 +1,15 @@
+HTTP/1.1 200 
+Server: nginx/1.18.0 (Ubuntu)
+Date: Fri, 02 Jun 2023 09:48:38 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Accept-Ranges: bytes
+ETag: W/"2323-1685521628000"
+Last-Modified: Wed, 31 May 2023 08:27:08 GMT
+Cache-Control: max-age=0
+Expires: Fri, 02 Jun 2023 09:48:38 GMT
+vary: accept-encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

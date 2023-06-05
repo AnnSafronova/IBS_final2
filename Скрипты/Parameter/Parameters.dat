@@ -1,0 +1,6 @@
+address,login,password,firstName,lastName,phoneNumber,cityName,email,cardNumber,cartholderName,cvv,date,stateProvince,zipcode
+Apple,Sozonova51,Qwert1,Tanya,Sozonova,799999999,Minsk,jett47@mail.ru,785492584824,Tanya,872,032523,28,174
+Pear,Krasnov14,Asdfg2,Roma,Krasnov,798788888,Moscow,hetoi48@mail.ru,528648628238,Roma,235,060723,29,173
+Watermelon,Gubina561,Zxcvb3,Kostya,Gubin,798777777,Samara,ketbnu75@mail.ru,828531595854,Kostya,381,060123,85,179
+Melon,Saffronov73,Poiuy4,Richie,Saffronov,798766666,Berlin,popug73@mail.ru,521412672943,Richie,925,071123,81,171
+Peach,Nastya52,Lkjhg5,Nastya,Vilkina,798755555,Paris,jskl78@mail.ru,729226751634,Nastya,927,052323,86,176

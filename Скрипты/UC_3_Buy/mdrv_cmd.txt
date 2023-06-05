@@ -1,0 +1,1 @@
+-usr "D:\finish\UC3_Buy\buy.usr" -drv_log_file "D:\finish\UC3_Buy\mdrv.log" -qt_result_dir "D:\finish\UC3_Buy\result1" -extra_ext rtc_client -extra_ext vugdbg_ext -cci_elevel -msg_suffix_enable 0 -out "D:\finish\UC3_Buy\" -correlation_files -param_non_working_days 6,7 -product_name vugen -pid 13468 -vugen_win 8982960 -vugen_animate_delay 1 -param_log_timestamp_flag  0
